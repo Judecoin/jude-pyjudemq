@@ -13,7 +13,7 @@ dependencies
 
 Check the source out with
 
-    $ git clone https://github.com/Judecoin-core/jude-pyjudemq.git
+    $ git clone https://github.com/Judecoin/jude-pyjudemq.git
     $ cd jude-pyjudemq
 
 Install using:
